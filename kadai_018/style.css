@@ -43,7 +43,7 @@
 #bottom{
     width: 800px;
     height: 300px;
-    margin: 0 auto;
+    margin: auto auto;
     background-color: #87ceeb;
 }
 #bottom-child01, #bottom-child02, #bottom-child03 {
